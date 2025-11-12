@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/canmitm/sukuna/raw/main/assets/sukuna_banner.png" alt="SUKUNA v11.0"/>
+  <a href="https://imgur.com/gallery/sukuna-WBnP5fD#aCO3CEC">
+    <img src="https://i.imgur.com/aCO3CEC.gif" alt="SUKUNA v11.0 - Demo Video" width="100%"/>
+  </a>
 </p>
 
 <h1 align="center">SUKUNA v11.0</h1>
@@ -44,7 +46,7 @@ curl -sL https://raw.githubusercontent.com/canmitm/sukuna/main/install_sukuna.sh
 
 After install: Just type sukuna in terminal.
 
-sukuna
+Usage: sukuna
 
 ███████╗██╗   ██╗██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ 
 ...
@@ -53,10 +55,16 @@ Author: canmitm | Instagram: @canmitm
 
 Terminal (1) | GUI (2):
 
-SUKUNA is not just a tool — it's a statement.
+Requirements: sudo apt install nmap sqlmap xsser commix nikto nuclei python3-tk gcc nasm -y
+
+License
+MIT License
+
+
+  SUKUNA is not just a tool — it's a statement.
 
   Built with precision. Used with dominance.
 
 
-  Instagram • https://www.instagram.com/canmitm
+  Instagram • instagram.com/canmitm
   GitHub • github.com/root-flow
